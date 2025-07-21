@@ -42,20 +42,28 @@ const AboutSection = () => {
           <div className="space-y-8 animate-slide-up">
             <div className="space-y-6">
               <h3 className="text-2xl font-display font-semibold text-foreground">
-                Hi, I'm Sravani! 👋
+                Hey there, I'm Sravani! ✨
               </h3>
               
               <div className="prose prose-lg text-muted-foreground">
                 <p className="text-lg leading-relaxed">
-                  I'm a freelance front-end developer who blends design with logic. 
-                  I help Indian brands create modern, conversion-ready websites using 
-                  React, Tailwind, and smart features like AI assistants.
+                  I'm a front-end developer with a deep love for clean design and smart, user-focused solutions.
                 </p>
                 
                 <p className="text-lg leading-relaxed">
-                  With over 3 years of experience in web development and design, 
-                  I specialize in creating beautiful, responsive websites that not 
-                  only look great but also drive results for businesses.
+                  My journey into web development wasn't just about learning code, it was about learning how to bring ideas to life online. I believe a website should be more than just pretty pixels. It should tell your brand's story, guide your visitors effortlessly, and convert curiosity into action.
+                </p>
+                
+                <p className="text-lg leading-relaxed">
+                  I've helped businesses transform their digital presence through sleek, mobile-friendly websites built with React, styled to perfection with Tailwind CSS, and powered by features like AI chat assistants and WhatsApp integrations.
+                </p>
+                
+                <p className="text-lg leading-relaxed">
+                  Whether it's a simple landing page or a fully interactive website, I design with intention, blending creativity and logic to craft experiences that feel personal, smooth, and smart.
+                </p>
+                
+                <p className="text-lg leading-relaxed font-semibold">
+                  Let's build something that not only looks great, but actually works for your business.
                 </p>
               </div>
             </div>
