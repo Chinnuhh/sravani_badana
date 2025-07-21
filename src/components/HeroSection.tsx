@@ -1,6 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Code, Palette, Sparkles } from "lucide-react";
-import sravaniHeadshot from "@/assets/sravani-headshot.jpg";
+
 
 const HeroSection = () => {
   const scrollToSection = (sectionId: string) => {
@@ -91,7 +91,7 @@ const HeroSection = () => {
             <div className="relative">
               <div className="absolute inset-0 bg-gradient-primary rounded-full blur-2xl opacity-30 animate-pulse"></div>
               <img 
-                src={sravaniHeadshot} 
+                src="/lovable-uploads/4a024845-9fab-4859-8f34-0d07d63c5415.png" 
                 alt="Sravani Badana - Web Designer & Developer"
                 className="relative w-80 h-80 lg:w-96 lg:h-96 object-cover rounded-full shadow-strong hover:shadow-glow transition-all duration-500 animate-float"
               />
