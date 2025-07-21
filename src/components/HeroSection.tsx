@@ -41,8 +41,8 @@ const HeroSection = () => {
               </p>
               
               <p className="text-lg text-white/80 max-w-2xl">
-                I help Indian brands create modern, conversion-ready websites using React, Tailwind, 
-                and smart features like AI assistants.
+                I help brands stand out online with websites that drive results, engage visitors, 
+                and grow your business with modern design and smart functionality.
               </p>
             </div>
 
@@ -62,7 +62,7 @@ const HeroSection = () => {
                 variant="outline" 
                 size="lg" 
                 onClick={() => scrollToSection('contact')}
-                className="text-lg px-8 py-4 border-white/30 text-white hover:bg-white/10 hover:border-white/50"
+                className="text-lg px-8 py-4 border-primary-light/50 text-primary-light hover:bg-primary-light/10 hover:border-primary-light/70 hover:text-primary-light"
               >
                 <Code className="w-5 h-5" />
                 Get a Quote
