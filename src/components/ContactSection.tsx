@@ -283,7 +283,7 @@ const ContactSection = () => {
                 <Button 
                   variant="outline"
                   asChild
-                  className="border-white/30 text-white hover:bg-white/10 hover:border-white/50"
+                  className="border-primary/50 text-primary hover:bg-primary/10 hover:border-primary/70"
                 >
                   <a 
                     href={`https://wa.me/919888596888?text=${whatsappMessage}`}

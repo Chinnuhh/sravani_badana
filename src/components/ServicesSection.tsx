@@ -215,7 +215,7 @@ const ServicesSection = () => {
             <Button 
               variant="outline" 
               size="lg"
-              className="border-white/30 text-white hover:bg-white/10 hover:border-white/50 text-lg px-8 py-4"
+              className="border-primary/50 text-primary hover:bg-primary/10 hover:border-primary/70 text-lg px-8 py-4"
               onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}
             >
               Get Your Custom Quote

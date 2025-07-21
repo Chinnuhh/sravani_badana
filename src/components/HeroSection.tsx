@@ -62,7 +62,7 @@ const HeroSection = () => {
                 variant="outline" 
                 size="lg" 
                 onClick={() => scrollToSection('contact')}
-                className="text-lg px-8 py-4 border-primary-light/50 text-primary-light hover:bg-primary-light/10 hover:border-primary-light/70 hover:text-primary-light"
+                className="text-lg px-8 py-4 border-primary/50 text-primary hover:bg-primary/10 hover:border-primary/70 hover:text-primary"
               >
                 <Code className="w-5 h-5" />
                 Get a Quote
